@@ -1,6 +1,6 @@
 import { getStoreState } from './dva'
 
-export const removeComponent = clientId => {
+export const removeComponent = () => {
   const components = getRootComponents()
   return components
 }

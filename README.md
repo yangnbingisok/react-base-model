@@ -6,9 +6,11 @@
 
 项目启动 
  
-# install dependencies
+# 项目安装
 npm install
-# serve with hot reload at localhost:8080
+# 项目启动
 npm run start
-# build for production with minification
+# 项目打包
 npm run build
+# 项目链接
+http://127.0.0.1:4666/index.html
